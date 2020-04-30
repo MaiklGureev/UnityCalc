@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "745376318774",
+    "firebase_url": "https://unitycalc.firebaseio.com",
+    "project_id": "unitycalc",
+    "storage_bucket": "unitycalc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745376318774:android:58e242b20d0ab239fe1f97",
+        "android_client_info": {
+          "package_name": "com.Gureev.UnityCalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745376318774-18gbav94nr97bb8fddhfql70c2iqj512.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD23Y0WWtNTnoWXr7wmgg4EUW1xf3waLSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745376318774-18gbav94nr97bb8fddhfql70c2iqj512.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
